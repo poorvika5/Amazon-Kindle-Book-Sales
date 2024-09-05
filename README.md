@@ -70,7 +70,7 @@
 <h3 id="installation">Installation</h3>
 <ol>
     <li>Clone the repo:
-        <pre><code>git clone https://github.com/your_username/amazon-kindle-analysis.git</code></pre>
+        <pre><code>git clone https://github.com/poorvika5/amazon-kindle-analysis.git</code></pre>
     </li>
     <li>Install the required Python packages:
         <pre><code>pip install -r requirements.txt</code></pre>
